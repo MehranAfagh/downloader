@@ -83,6 +83,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [1217e057-3b78-45d2-8166-81dadd44384f](https://github.com/MehranAfagh/downloader/tree/main/downloads/1217e057-3b78-45d2-8166-81dadd44384f)
@@ -92,5 +94,7 @@ a
 3. [mhrv-rs-windows-amd64](https://github.com/MehranAfagh/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 4. [mhrv-rs-windows-amd64_sky](https://github.com/MehranAfagh/downloader/tree/main/downloads/mhrv-rs-windows-amd64_sky)
+
+5. [v2rayN-windows-64-desktop](https://github.com/MehranAfagh/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
 
 ---
