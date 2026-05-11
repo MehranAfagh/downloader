@@ -5,6 +5,7 @@
 - [flaresolverr_windows_x64](./flaresolverr_windows_x64)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [mhrv-rs-windows-amd64_sky](./mhrv-rs-windows-amd64_sky)
+- [tor-browser-windows-x86_64-portable-15.0.13](./tor-browser-windows-x86_64-portable-15.0.13)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 
 ---
