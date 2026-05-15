@@ -89,20 +89,24 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [1217e057-3b78-45d2-8166-81dadd44384f](https://github.com/MehranAfagh/downloader/tree/main/downloads/1217e057-3b78-45d2-8166-81dadd44384f)
 
 2. [Nova.App.V1](https://github.com/MehranAfagh/downloader/tree/main/downloads/Nova.App.V1)
 
-3. [flaresolverr_windows_x64](https://github.com/MehranAfagh/downloader/tree/main/downloads/flaresolverr_windows_x64)
+3. [ShirOKhorshid-2026.05.14](https://github.com/MehranAfagh/downloader/tree/main/downloads/ShirOKhorshid-2026.05.14)
 
-4. [mhrv-rs-windows-amd64](https://github.com/MehranAfagh/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+4. [flaresolverr_windows_x64](https://github.com/MehranAfagh/downloader/tree/main/downloads/flaresolverr_windows_x64)
 
-5. [mhrv-rs-windows-amd64_sky](https://github.com/MehranAfagh/downloader/tree/main/downloads/mhrv-rs-windows-amd64_sky)
+5. [mhrv-rs-windows-amd64](https://github.com/MehranAfagh/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
-6. [tor-browser-windows-x86_64-portable-15.0.13](https://github.com/MehranAfagh/downloader/tree/main/downloads/tor-browser-windows-x86_64-portable-15.0.13)
+6. [mhrv-rs-windows-amd64_sky](https://github.com/MehranAfagh/downloader/tree/main/downloads/mhrv-rs-windows-amd64_sky)
 
-7. [v2rayN-windows-64-desktop](https://github.com/MehranAfagh/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
+7. [tor-browser-windows-x86_64-portable-15.0.13](https://github.com/MehranAfagh/downloader/tree/main/downloads/tor-browser-windows-x86_64-portable-15.0.13)
+
+8. [v2rayN-windows-64-desktop](https://github.com/MehranAfagh/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
 
 ---
